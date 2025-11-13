@@ -1,26 +1,26 @@
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-    font-family: Arial, Helvetica,
-    sans-serif;
-    scroll-behavior: smooth;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  scroll-behavior: smooth;
 }
 
 body{
-  background-color: rgb(117, 117, 117);
+  background-color: #022b49;
+  color: #ffffff;
 }
 
-a{
+a {
   text-decoration: none;
-  color: #fa1212;
+  color: #ffff;
   opacity: 0.7;
   transition: all 200ms ease-in-out;
   font-size: 20px;
 
 }
 
-a:hover{
+a:hover {
   cursor: pointer;
   opacity: 1;
   text-decoration: underline;
